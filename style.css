@@ -1,5 +1,5 @@
 .navbar-custom-color {
-  background-color: rgb(29, 14, 51) !important;
+  background-color: rgb(31, 14, 36) !important;
   color: rgb(205, 196, 218) !important;
 }
 .nav-link, .navbar-brand {
@@ -20,16 +20,16 @@ div.sticky {
 .is-hidden { display: none; }
 
 body {
-  background-color: rgba(61, 53, 131, 0.966) !important;
-  color: rgb(194, 189, 211) !important;
+  background-color: rgb(57, 38, 73) !important;
+  color: rgb(190, 168, 204) !important;
 }
 
 .btn-primary {
-  background-color: rgb(46, 21, 83) !important;
+  background-color: rgb(35, 15, 40) !important;
 }
 
 .btn-primary:hover {
-  background-color: rgb(83, 36, 155) !important;
+  background-color: rgb(74, 21, 97) !important;
 }
 
 /* .btn-primary:hover {
