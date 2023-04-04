@@ -16,3 +16,5 @@ div.sticky {
   height: 19vw;
   object-fit: cover;
 }
+
+.is-hidden { display: none; }
