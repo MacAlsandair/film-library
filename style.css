@@ -1,9 +1,9 @@
 .navbar-custom-color {
-  background-color: rgb(104, 230, 115) !important;
-  color: rgb(54, 1, 139) !important;
+  background-color: rgb(29, 14, 51) !important;
+  color: rgb(205, 196, 218) !important;
 }
 .nav-link, .navbar-brand {
-  color: rgb(54, 1, 139) !important;
+  color: rgb(206, 197, 219) !important;
 }
 
 div.sticky {
@@ -13,8 +13,25 @@ div.sticky {
 }
 .card-img-top {
   width: 100%;
-  height: 19vw;
+  height: 30vw;
   object-fit: cover;
 }
 
 .is-hidden { display: none; }
+
+body {
+  background-color: rgba(61, 53, 131, 0.966) !important;
+  color: rgb(194, 189, 211) !important;
+}
+
+.btn-primary {
+  background-color: rgb(46, 21, 83) !important;
+}
+
+.btn-primary:hover {
+  background-color: rgb(83, 36, 155) !important;
+}
+
+/* .btn-primary:hover {
+  background-color: rgb(83, 36, 155) !important;
+} */
