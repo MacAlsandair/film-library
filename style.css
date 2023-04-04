@@ -1,9 +1,9 @@
 .navbar-custom-color {
   background-color: rgb(31, 14, 36) !important;
-  color: rgb(205, 196, 218) !important;
+  color: rgb(241, 223, 233) !important;
 }
 .nav-link, .navbar-brand {
-  color: rgb(206, 197, 219) !important;
+  color: rgb(241, 223, 233) !important;
 }
 
 div.sticky {
@@ -21,7 +21,7 @@ div.sticky {
 
 body {
   background-color: rgb(57, 38, 73) !important;
-  color: rgb(190, 168, 204) !important;
+  color: rgb(235, 194, 217) !important;
 }
 
 .btn-primary {
